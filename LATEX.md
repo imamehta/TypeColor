@@ -1,2 +1,1 @@
-Require details about this software. 
-Can you please provide it
+Require details about this software - LaTeX for documenting.
